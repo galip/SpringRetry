@@ -1,2 +1,2 @@
 # SpringRetry
-Demo for Sprng retry, recover mechanism
+Demo for Spring retry, recover mechanism
